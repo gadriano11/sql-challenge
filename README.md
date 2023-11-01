@@ -8,6 +8,17 @@ For this project, you’ll design the tables to hold the data from the CSV files
 ## Instructions:
 This Challenge is divided into three parts: data modelling, data engineering, and data analysis.
 
+Create a new database. When creating the new database, ensure to add Name: DateStyle, Value: MDY, Role: postgres to the parameters.
+
+Import the following CSV in order:
+
+- titles
+- employees
+- department
+- dept_emp
+- dept_manager
+- salaries
+
 ## Data Modelling
 Inspect the CSV files, and then sketch an ERD of the tables. To create the sketch, feel free to use a tool like QuickDBDLinks.
 
